@@ -29,3 +29,11 @@ h5{
   max-width: 500px;
   margin: 0 auto;
 }
+
+  footer {
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 50px;
+    background-color: transparent;
+  }
