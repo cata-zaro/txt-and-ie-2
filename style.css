@@ -1,0 +1,31 @@
+
+/*archivos de la cascada de estilo*/
+
+
+/*Importacion de fuentes*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+body{
+background-image: url(https://i.pinimg.com/originals/c4/6e/53/c46e5362bbe289b7fa285db87037db17.png);
+font-size: 25px;
+font-family: 'Inconsolata', monospace;
+width: 100%;
+max-width: 1000px;
+margin: 0 auto;
+}
+
+h1{
+  font-size: 150px;
+  font-family: 'Press Start 2P', cursive;
+  width: 80%;
+max-width: 800px;
+margin:100px
+}
+
+h5{
+  width: 25%;
+  max-width: 500px;
+  margin: 0 auto;
+}
